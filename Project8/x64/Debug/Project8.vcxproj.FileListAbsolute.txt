@@ -1,0 +1,24 @@
+C:\Users\Petro\source\repos\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\Petro\source\repos\Project8\Project8\x64\Debug\Project8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Petro\source\repos\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\Petro\source\repos\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\Petro\source\repos\Project8 – копія\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\Petro\source\repos\Project8 – копія\Project8\x64\Debug\Project8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Petro\source\repos\Project8 – копія\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\Petro\source\repos\Project8 – копія\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\Petro\source\repos\Project8 – копія – копія\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\Petro\source\repos\Project8 – копія – копія\Project8\x64\Debug\Project8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Petro\source\repos\Project8 – копія – копія\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\Petro\source\repos\Project8 – копія – копія\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\Petro\source\repos\PROJECT\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\Petro\source\repos\PROJECT\Project8\x64\Debug\Project8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Petro\source\repos\PROJECT\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\Petro\source\repos\PROJECT\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+E:\Desktop\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+E:\Desktop\Project8\Project8\x64\Debug\Project8.vcxproj.SuggestedBindingRedirects.cache
+E:\Desktop\Project8\Project8\x64\Debug\Project8.MyForm.resources
+E:\Desktop\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache
+C:\Users\Peter\Desktop\Project8\Project8\x64\Debug\Project8.vcxproj.AssemblyReference.cache
+C:\Users\Peter\Desktop\Project8\Project8\x64\Debug\Project8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Peter\Desktop\Project8\Project8\x64\Debug\Project8.MyForm.resources
+C:\Users\Peter\Desktop\Project8\Project8\x64\Debug\Project8.vcxproj.GenerateResource.cache

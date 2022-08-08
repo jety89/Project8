@@ -1,0 +1,4 @@
+C:\Users\Petro\source\repos\Project8 – копія – копія\Project8\x64\Release\Project8.vcxproj.AssemblyReference.cache
+C:\Users\Petro\source\repos\Project8 – копія – копія\Project8\x64\Release\Project8.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\Petro\source\repos\Project8 – копія – копія\Project8\x64\Release\Project8.MyForm.resources
+C:\Users\Petro\source\repos\Project8 – копія – копія\Project8\x64\Release\Project8.vcxproj.GenerateResource.cache
